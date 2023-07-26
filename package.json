@@ -2,7 +2,7 @@
   "name": "ap04tds",
   "version": "1.0.0",
   "description": "avaliação prática 04 tds",
-  "author": "gustavo faino",
+  "author": "fabio novack",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
