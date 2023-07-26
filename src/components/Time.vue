@@ -71,7 +71,7 @@
 
     </script>
 
-    <style scoped>
+<style scoped>
     #clock {
     border-radius: 25px;
     padding: 100px;
