@@ -55,16 +55,6 @@
                 this.hours = hours;
                 this.minutes = minutes;
                 this.seconds = seconds;
-
-
-                let day = date.getDate();
-                let month = date.getMonth();
-                let year = date.getFullYear();
-                day = day <= 9 ? "0" + day : day;
-                month = month <= 9 ? "0" + month : month;
-                this.day = day;
-                this.month = month;
-                this.year = year;
             }
         }
     }
