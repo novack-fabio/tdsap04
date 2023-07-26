@@ -1,17 +1,17 @@
 <template>
   <div id="app">
-    <h1>Cat Size</h1>
-    <Cat></Cat>
+    <Time></Time>
   </div>
 </template>
 
 <script>
-import Cat from './components/Cat'
+import Time from './components/Time'
+
 
 export default {
   name: 'App',
   components: {
-    Cat
+    Time
   }
 }
 </script>
